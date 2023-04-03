@@ -1,0 +1,7 @@
+digit_2 = "//*[contains(@resource-id, 'btn_02')]"
+digit_5 = "//*[contains(@resource-id, 'btn_05')]"
+plus = "//*[contains(@resource-id, 'btn_add')]"
+expression = "//*[contains(@resource-id, 'calc_edt_formula')]"
+equals = "//*[contains(@resource-id, 'btn_equal')]"
+result = "//*[contains(@text, ' Calculation result')]"
+minus = "//*[contains(@resource-id, 'btn_sub')]"
